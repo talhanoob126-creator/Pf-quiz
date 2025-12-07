@@ -1,3 +1,3 @@
-# Subscriber caluculation
-This program calculate the total subscripton cost and and the total number of premium subscriber.
-program is written in c++ language. 
+Program for Cleaning product distributor that calculates the total revenue and and the number oflarge orders.
+Program is written in c++ language. 
+7-12-2025
